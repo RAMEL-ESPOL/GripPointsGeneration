@@ -1,3 +1,8 @@
+# Paper: Preliminary Connector Recognition System Based on Image Processing for Wire Harness Assembly Tasks
+
+## Abstract
+In this paper, we analyze and propose a recognition process of plug-in cable connectors for wiring harness assembly tasks using image processing. For manipulation and routing of wire harness, knowing the accurate pose of the cable connector is very critical in the grasping moment. The recognition process is crucial to minimize the error in the manipulation of the connectors. Nowadays, we notice that collaborative robot manipulators or small size industrial robot manipulators attain high accuracy and repeatability levels (sub-millimeter); thus, demonstrate very precise position control capabilities. Using those capacities and with the correct recognition system, we can apply to the automation of the wire harness assembly process. For that reason, we propose a connector recognition system to obtain the precise position of the connectors on a work table; which is necessary to obtain a successful grasping and manipulation of the connectors in a wire harness. The system and the recognition process are explained in detail, and validated experimentally.
+
 # Paper: Grip points generation on motorcycle wire harnesses main branch based on computer vision and clustering
 
 ## Abstract
